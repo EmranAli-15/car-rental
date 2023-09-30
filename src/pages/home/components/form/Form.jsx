@@ -16,7 +16,7 @@ const Form = () => {
     }
 
     return (
-        <div className='w-[1190px] h-[250px] mx-auto relative top-[85px] bg-white rounded-2xl'>
+        <div className='w-[1190px] h-[250px] mx-auto relative top-[50px] bg-white rounded-2xl'>
 
             {/* selection action section */}
             <div>
